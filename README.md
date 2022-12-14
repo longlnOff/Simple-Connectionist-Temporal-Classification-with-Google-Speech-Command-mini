@@ -1,0 +1,1 @@
+# Simple-Connectionist-Temporal-Classification-with-Google-Speech-Command-mini
